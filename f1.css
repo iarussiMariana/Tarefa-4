@@ -1,0 +1,25 @@
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.green {
+    border: 5px solid #73ce67;
+}
+
+.yellow {
+    border: 5px solid #ddd318;
+}
+
+.red {
+    border: 5px solid #ee0b0b;;
+}
+
+.f1 {
+    display: flex;
+    justify-content: flex-end;
+}
